@@ -23,8 +23,8 @@ Run `ng generate component component-name` to generate a new component. You can 
 
 Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
 
-## Production 
-[Netlify](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwi6wuqNp-eEAxWzVaQEHboDDMkQFnoECAcQAQ&url=https%3A%2F%2Fwww.netlify.com%2F&usg=AOvVaw3sXtvDCHEM_yMr7dqTH7xl&opi=89978449)
+## Production Platform
+En esta pagina web esta el deplegada la pagina web: [Netlify](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwi6wuqNp-eEAxWzVaQEHboDDMkQFnoECAcQAQ&url=https%3A%2F%2Fwww.netlify.com%2F&usg=AOvVaw3sXtvDCHEM_yMr7dqTH7xl&opi=89978449)
 
 ## Running unit tests
 
